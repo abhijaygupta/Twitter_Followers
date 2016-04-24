@@ -1,6 +1,6 @@
-Consumer Key (API Key):	F9o8QImXyhOGWl1zixlXGQHDE
+Consumer Key (API Key):	###
 Consumer Secret (API Secret):
-4shCSwYHyMnWpNYJQRUkgbUl2kjo9RhyW5xHzvfFK7eI67TV2a
-Owner ID : 2173152326
-Access Token	2173152326-yjL6K0n1OP0VRN2bkMhVnO5fj33QvGBrTGenOxh
-Access Token Secret	RsBICRABzOwQCXs6QAnd6LgoAaA1V7Nvrplf2C9mEYBhZ
+###
+Owner ID : ###
+Access Token	###
+Access Token Secret	###
